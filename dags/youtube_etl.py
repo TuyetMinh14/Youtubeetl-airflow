@@ -18,7 +18,7 @@ def youtube_etl():
 
     api_service_name = "youtube"
     api_version = "v3"
-    DEVELOPER_KEY = "AIzaSyCU0GDwQb1g2oZVxLXVlkI_LgHbaVRn5JU"
+    DEVELOPER_KEY = ""
 
     youtube = googleapiclient.discovery.build(
         api_service_name, api_version, developerKey = DEVELOPER_KEY)
