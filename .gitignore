@@ -1,0 +1,15 @@
+.DS_Store
+.vscode
+.env
+.venv
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+dags/helper/__pycache__
+dags/youtube_etl/__pycache__
+plugins/__pycache__
+dags/send_report_gmail/__pycache__
+logs/
+dags/utils/__pycache__
+dags/__pycache__/
