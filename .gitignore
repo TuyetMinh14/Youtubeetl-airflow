@@ -13,3 +13,4 @@ dags/send_report_gmail/__pycache__
 logs/
 dags/utils/__pycache__
 dags/__pycache__/
+venv
